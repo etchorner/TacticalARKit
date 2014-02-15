@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TacARKit/TacARKit.iml" filepath="$PROJECT_DIR$/TacARKit/TacARKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TacticalARKit.iml" filepath="$PROJECT_DIR$/TacticalARKit.iml" />
+    </modules>
+  </component>
+</project>
+
